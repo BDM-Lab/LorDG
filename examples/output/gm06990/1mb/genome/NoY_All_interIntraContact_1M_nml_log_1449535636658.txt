@@ -1,0 +1,7 @@
+Input file: /Users/Tuan/workspace/3DGenome/input/NoY_All_interIntraContact_1M_nml.txt
+Convert factor: 0.9
+Learning rate: 0.01
+Chromosome lengths:229 470 667 857 1036 1205 1362 1507 1631 1766 1899 2031 2129 2218 2301 2382 2461 2538 2595 2657 2693 2729 2882 2911 
+RMSE: 37.20201291089025
+Spearman correlation IFs vs. Reconstructed Dist: 0.21279579274670152
+Spearman correlation WishDist vs. Reconstructed Dist: 0.4711812632724073

@@ -1,0 +1,6 @@
+Input file: /Users/Tuan/workspace/DataAndEvaluation/output/normal/500KB/IFList_Chr_7_500kb.txt
+Convert factor: 1.1
+Learning rate: 1.0
+RMSE: 36.157534330234505
+Spearman correlation IFs vs. Reconstructed Dist: 0.2836800120492615
+Spearman correlation WishDist vs. Reconstructed Dist: 0.8378515429928217

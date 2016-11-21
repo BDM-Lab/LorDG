@@ -1,0 +1,6 @@
+Input file: /Users/Tuan/workspace/DataAndEvaluation/output/normal/500KB/IFList_Chr_15_500kb.txt
+Convert factor: 1.1
+Learning rate: 1.0
+AVG RMSE: 41.148432511732
+AVG Spearman correlation IFs vs. Reconstructed Dist: 0.16455634817343573
+AVG Spearman correlation WishDist vs. Reconstructed Dist: 0.7472835279328066

@@ -1,0 +1,6 @@
+Input file: input/gm06990_hic/IFList_Chr_14_1mb.txt
+Convert factor: 0.7
+Learning rate: 1.0
+RMSE: 76.40195306463382
+Spearman correlation IFs vs. Reconstructed Dist: -0.8108617378447127
+Spearman correlation WishDist vs. Reconstructed Dist: 0.8108617378447133

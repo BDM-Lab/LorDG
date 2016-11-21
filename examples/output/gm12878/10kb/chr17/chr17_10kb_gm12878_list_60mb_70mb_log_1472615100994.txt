@@ -1,0 +1,6 @@
+Input file: E:/GM12878/10kb_resolution_intrachromosomal/chr17/MAPQGE30/chr17_10kb_gm12878_list_60mb_70mb.txt
+Convert factor: 0.7
+Learning rate: 1.0
+RMSE: 75.9313615072392
+Spearman correlation IFs vs. Reconstructed Dist: -0.7726142675583947
+Spearman correlation WishDist vs. Reconstructed Dist: 0.772614267558394

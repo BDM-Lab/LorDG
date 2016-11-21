@@ -1,0 +1,5 @@
+13;	spectrum count, rainbow, id 1-12
+13;	spectrum count, rainbow, id 39-92
+13;	spectrum count, rainbow, id 548-639
+13;	spectrum count, rainbow, id 26-160
+spectrum count, rainbow, id 1-12;spectrum count, rainbow, id 39-92;spectrum count, rainbow, id 548-639;spectrum count, rainbow, id 26-160;

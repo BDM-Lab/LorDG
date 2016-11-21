@@ -1,0 +1,125 @@
+TUAN TEST
+ATOM      1   CA MET A1          0.126  -1.013  -4.368  0.20 10.00
+ATOM      2   CA MET A2          0.126  -1.270  -5.025  0.20 10.00
+ATOM      3   CA MET A3          0.255  -1.747  -4.890  0.20 10.00
+ATOM      4   CA MET A4          0.884  -2.198  -4.564  0.20 10.00
+ATOM      5   CA MET A5          1.732  -2.497  -4.185  0.20 10.00
+ATOM      6   CA MET A6          2.644  -2.688  -3.733  0.20 10.00
+ATOM      7   CA MET A7          3.722  -2.862  -3.236  0.20 10.00
+ATOM      8   CA MET A8          4.215  -2.699  -2.819  0.20 10.00
+ATOM      9   CA MET A9          4.712  -2.718  -2.056  0.20 10.00
+ATOM     10   CA MET A10         5.168  -2.439  -1.313  0.20 10.00
+ATOM     11   CA MET A11         5.869  -2.599  -0.942  0.20 10.00
+ATOM     12   CA MET A12         5.652  -2.471  -0.343  0.20 10.00
+ATOM     13   CA MET A13         4.903  -2.881  -0.036  0.20 10.00
+ATOM     14   CA MET A14         5.009  -3.972   0.079  0.20 10.00
+ATOM     15   CA MET A15         4.986  -5.055   0.044  0.20 10.00
+ATOM     16   CA MET A16         4.970  -5.671   0.378  0.20 10.00
+ATOM     17   CA MET A17         4.408  -5.486   0.846  0.20 10.00
+ATOM     18   CA MET A18         3.517  -5.153   1.059  0.20 10.00
+ATOM     19   CA MET A19         2.762  -5.249   1.528  0.20 10.00
+ATOM     20   CA MET A20         2.345  -4.820   1.769  0.20 10.00
+ATOM     21   CA MET A21         2.105  -3.904   1.919  0.20 10.00
+ATOM     22   CA MET A22         2.355  -3.016   2.063  0.20 10.00
+ATOM     23   CA MET A23         2.432  -2.090   1.941  0.20 10.00
+ATOM     24   CA MET A24         2.271  -1.503   2.408  0.20 10.00
+ATOM     25   CA MET A25         2.011  -0.855   1.884  0.20 10.00
+ATOM     26   CA MET A26         1.514  -0.446   1.267  0.20 10.00
+ATOM     27   CA MET A27         1.380  -0.659   0.757  0.20 10.00
+ATOM     28   CA MET A28        -0.084  -0.181   0.431  0.20 10.00
+ATOM     29   CA MET A29        -1.517  -0.388   0.028  0.20 10.00
+ATOM     30   CA MET A30        -2.987  -0.229  -0.546  0.20 10.00
+ATOM     31   CA MET A31        -3.991  -0.072  -1.121  0.20 10.00
+ATOM     32   CA MET A32        -4.661   0.098  -1.309  0.20 10.00
+ATOM     33   CA MET A33        -5.254   0.151  -1.095  0.20 10.00
+ATOM     34   CA MET A34        -5.424   0.138  -0.560  0.20 10.00
+ATOM     35   CA MET A35        -5.367  -0.004   0.327  0.20 10.00
+ATOM     36   CA MET A36        -5.056  -0.218   1.182  0.20 10.00
+ATOM     37   CA MET A37        -4.414  -0.391   2.255  0.20 10.00
+ATOM     38   CA MET A38        -3.647  -0.317   2.834  0.20 10.00
+ATOM     39   CA MET A39        -2.869   0.170   2.741  0.20 10.00
+ATOM     40   CA MET A40        -2.016   0.782   2.180  0.20 10.00
+ATOM     41   CA MET A41        -2.381   1.251   2.936  0.20 10.00
+ATOM     42   CA MET A42        -2.888   1.970   3.160  0.20 10.00
+ATOM     43   CA MET A43        -2.524   2.744   3.253  0.20 10.00
+ATOM     44   CA MET A44        -1.753   2.821   2.959  0.20 10.00
+ATOM     45   CA MET A45        -1.228   3.074   2.520  0.20 10.00
+ATOM     46   CA MET A46        -1.459   3.642   2.609  0.20 10.00
+ATOM     47   CA MET A47        -2.067   3.750   1.859  0.20 10.00
+ATOM     48   CA MET A48        -2.145   4.579   1.774  0.20 10.00
+ATOM     49   CA MET A49        -1.659   5.527   1.827  0.20 10.00
+ATOM     50   CA MET A50        -0.805   5.857   1.431  0.20 10.00
+ATOM     51   CA MET A51        -0.456   5.783   0.799  0.20 10.00
+ATOM     52   CA MET A52        -0.198   4.976   0.498  0.20 10.00
+ATOM     53   CA MET A53        -0.138   4.078   0.158  0.20 10.00
+ATOM     54   CA MET A54        -0.753   4.321  -0.364  0.20 10.00
+ATOM     55   CA MET A55        -1.661   4.737  -0.788  0.20 10.00
+ATOM     56   CA MET A56        -2.466   4.501  -0.943  0.20 10.00
+ATOM     57   CA MET A57        -2.313   3.567  -1.002  0.20 10.00
+ATOM     58   CA MET A58        -1.708   2.617  -0.831  0.20 10.00
+ATOM     59   CA MET A59        -1.322   2.330  -1.183  0.20 10.00
+ATOM     60   CA MET A60        -1.643   2.658  -2.109  0.20 10.00
+ATOM     61   CA MET A61        -1.489   2.192  -2.857  0.20 10.00
+ATOM     62   CA MET A62        -1.425   1.755  -3.151  0.20 10.00
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20
+CONECT   20   21
+CONECT   21   22
+CONECT   22   23
+CONECT   23   24
+CONECT   24   25
+CONECT   25   26
+CONECT   26   27
+CONECT   27   28
+CONECT   28   29
+CONECT   29   30
+CONECT   30   31
+CONECT   31   32
+CONECT   32   33
+CONECT   33   34
+CONECT   34   35
+CONECT   35   36
+CONECT   36   37
+CONECT   37   38
+CONECT   38   39
+CONECT   39   40
+CONECT   40   41
+CONECT   41   42
+CONECT   42   43
+CONECT   43   44
+CONECT   44   45
+CONECT   45   46
+CONECT   46   47
+CONECT   47   48
+CONECT   48   49
+CONECT   49   50
+CONECT   50   51
+CONECT   51   52
+CONECT   52   53
+CONECT   53   54
+CONECT   54   55
+CONECT   55   56
+CONECT   56   57
+CONECT   57   58
+CONECT   58   59
+CONECT   59   60
+CONECT   60   61
+CONECT   61   62
+END

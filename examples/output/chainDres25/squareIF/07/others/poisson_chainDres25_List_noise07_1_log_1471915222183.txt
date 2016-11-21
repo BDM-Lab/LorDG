@@ -1,0 +1,6 @@
+Input file: /Users/Tuan/workspace/DataAndEvaluation/output/SyntheticYeast/GMDS/poisson_chainDres25_List_noise07_1.txt
+Convert factor: 0.30000000000000004
+Learning rate: 1.0
+RMSE: 94.73385519240206
+Spearman correlation IFs vs. Reconstructed Dist: -0.3769804474214344
+Spearman correlation WishDist vs. Reconstructed Dist: 0.37698044742143483
