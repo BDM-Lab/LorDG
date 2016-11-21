@@ -69,4 +69,5 @@ charge as it is to any non-commercial users. The authors hold no liabilities to
 the performance of the program.
 
 ## 5. Citations
-** *T. Trieu, J. Cheng*. 3D Genome Structure Modeling by Lorentzian Objective Function. Nucleic Acids Research**
+
+*T. Trieu, J. Cheng*. **3D Genome Structure Modeling by Lorentzian Objective Function. Nucleic Acids Research**
